@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@types/styled-components": "^5.1.26",
+    "govuk-react": "^0.10.5",
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "styled-components": "^6.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "20.4.1",
+    "@types/react": "18.2.14",
+    "typescript": "5.1.6"
+  }
+}
