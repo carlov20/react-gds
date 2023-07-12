@@ -2,10 +2,7 @@ import Link from 'next/link';
 import React from 'react';
 import * as GovUK from 'govuk-react';
 
-const name = 'Carlo';
-export const siteTitle = 'Next.js Sample Website';
-
-export default function Layout({ children, home }: {
+export default function Layout({ children }: {
   children: React.ReactNode
   home?: boolean
 }) {
